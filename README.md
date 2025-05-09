@@ -1,20 +1,23 @@
-👋 Hey there, I'm [Your Name]! 🚀
+👋 Hey there, I'm Harish S! 🚀
 
-Good morning, code wranglers! I'm a Full Stack Developer who thrives on brewing ☕ and building slick, scalable web apps. My toolbox is packed with PHP and JavaScript magic, and I sprinkle some frontend fairy dust with React, Vue, and more. Let’s dive into my coding playground! 🎉
+Hello, code wranglers! I'm a Full Stack Developer who thrives on brewing ☕ and building slick, scalable web apps. My toolbox is packed with PHP and JavaScript magic, and I sprinkle some frontend fairy dust with React, Vue, and more. Let’s dive into my coding playground! 🎉
 
 
 🛠️ What I Wield
 I’m like a tech Swiss Army knife, slicing through both backend and frontend challenges. Here’s the rundown:
 
 Backend Wizardry 🧙‍♂️
+
 PHP Frameworks: I’ve tamed the wild beasts of Drupal, Laravel, WordPress, Zend, Magento, OpenCart, and Yii2. From CMS to e-commerce, I’ve got it covered!
 Node.js Environments: I spin up servers with ExpressJS and craft sleek APIs with Apollo GraphQL. Microservices? GraphQL schemas? Bring it on!
 
 Frontend Flair 🎨
+
 JavaScript Frameworks: I build snappy, interactive UIs with React and Vue. Dynamic, responsive, and oh-so-smooth.
 Bonus: I’m no stranger to vanilla JS, CSS wizardry, and making pixels dance.
 
 Full Stack Flow 🌊
+
 I bridge the gap between server and client, ensuring apps are fast, secure, and user-friendly.
 From database design to pixel-perfect frontends, I’m your one-stop dev shop.
 
