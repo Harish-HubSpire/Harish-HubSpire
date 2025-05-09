@@ -27,7 +27,7 @@ Got a wild idea for a project? Need a full stack ninja? I’m always up for a ch
 
 📫 Email: harish.st@hubspire.com
 
-🐦 X: @HarishSTOnline
+🐦 X: https://x.com/HarishSTOnline
 
 💼 LinkedIn: https://linkedin.com/in/harishst
 
