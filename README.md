@@ -24,6 +24,7 @@ From database design to pixel-perfect frontends, I’m your one-stop dev shop.
 🤝 Let’s Connect!
 
 Got a wild idea for a project? Need a full stack ninja? I’m always up for a chat. Find me:
+
 📫 Email: harish.st@hubspire.com
 🐦 X: @HarishSTOnline
 💼 LinkedIn: https://linkedin.com/in/harishst
